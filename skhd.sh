@@ -12,6 +12,7 @@
 #                                                                                           ⣿⣿⣿⣿⣷⣤⡈⠢⢝⡫⢿⣷⣽⣛⣛⣿⡶⠆⣀⠔⠋⢀⣤⣾⣿⣿⣿⣿    #
 #                                                                                           ⣿⣿⣿⣿⣿⣿⣿⣶⣤⣍⣛⠈⠙⠉⠉⠡⠤⣤⣀⣤⣴⣿⣿⣿⣿⣿⣿⣿    #
 
+#!/bin/bash
 
 # Settings
 # System Settings -> Keyboard -> Keyboard Shortcuts ->  Mission Control -> Switch to Desktop 1 -> On

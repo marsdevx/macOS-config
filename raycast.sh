@@ -17,6 +17,7 @@
 #                                                                                         ⣿⣿⣿⣿⣿⣽⣿⣿⣿⣿⣿⡿⣴⡹⣿⣿⣿⣿⣿⣿⣿⢧⣿⣿⣿⣿⣿⣿⣿⣿    #
 #                                                                                         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣭⣽⣿⣿⣯⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿    #
 
+#!/bin/bash
 
 # Settings
 # System Settings -> Keyboard -> Keyboard Shortcuts -> Spotlight -> Show Spotlight search -> Off

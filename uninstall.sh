@@ -21,6 +21,8 @@
 #                                                                       ⣿⠋⢊⣾⢣⣧⣿⠿⢙⣋⣚⡛⣛⡁⣌⠣⢰⢈⠛⣉⣛⠲⠈⠜⢛⣋⡄⡌⠉⠘⡜⣁⣩⣤⣭⣛⠃⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿    #
 #                                                                       ⢁⣴⡿⢣⣿⡟⣰⣾⣿⣿⣿⣷⠙⣱⣿⣧⡀⢸⡇⣿⡯⠅⠘⠀⠴⠿⠃⠿⠀⡏⡌⣿⣏⢻⣿⣿⣿⣦⢈⠻⣿⣿⣿⣿⣿⣿⣿⣿    #
 
+#!/bin/bash
+
 brew uninstall loop
 brew uninstall sketchybar
 brew uninstall jq
