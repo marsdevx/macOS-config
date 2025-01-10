@@ -1,0 +1,45 @@
+#                                                             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠟⠛⠉⠉⠁⠀⠀⠀⠀⠈⠉⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠉⠁⠀⠀⠀⠀⠈⠉⠉⠛⠻⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   #
+#    File:         skhdrc                                     ⣿⣿⣿⣿⣿⡿⠟⢋⣁⣠⣴⣶⣶⣿⣿⣿⣿⣿⣿⣿⣷⣶⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣶⣾⣿⣿⣿⣿⣿⣿⣿⣶⣶⣦⣤⣈⡙⠻⢿⣿⣿⣿⣿⣿   #
+#                                                             ⣿⣿⣿⣿⣧⣴⣾⣿⣿⡿⠿⠛⠉⠩⠭⠭⢍⣉⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠛⣉⡩⠭⠭⠍⠉⠛⠿⢿⣿⣿⣷⣦⣽⣿⣿⣿⣿   #
+#    Project:      macOS-config                               ⣿⣿⣿⣿⣿⣿⣿⠟⡩⠔⠈⠀⠀⠀⠀⠀⠀⠉⠛⢦⡙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢋⡴⠛⠁⠀⠀⠀⠀⠀⠀⠁⠢⢍⠻⣿⣿⣿⣿⣿⣿⣿   #
+#    Github:       marsdevx                                   ⣿⣿⣿⠻⠿⠟⡀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣄⡀⠀⠀⠙⠌⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠠⠋⠀⠀⢀⣠⣄⡀⠀⠀⠀⠀⠀⠀⠀⢄⠻⠿⠛⣿⣿⣿   #
+#                                                             ⣿⣿⣿⣷⣠⠀⠀⠀⢀⡄⠀⠀⠀⣼⣿⣿⣿⣿⣦⠀⠀⠀⣬⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣥⠀⠀⠀⣴⣿⣿⣿⣿⣧⠀⠀⠀⢠⡀⠀⠀⠠⣄⣾⣿⣿⣿   #
+#    Created:      09:25   10/01/2025                         ⣛⠛⠉⠉⠀⠀⠀⢠⣿⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⡄⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⢰⣿⣿⣿⣿⣿⣿⠆⠀⠀⠈⣷⡄⠀⠀⠀⠉⠙⠛⣛   #
+#    Updated:      09:25   10/01/2025                         ⣿⣿⣿⣿⣿⡄⠠⣿⣿⠀⠀⠀⠀⢿⣿⣿⣿⣿⡿⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡄⠀⠀⢿⣿⣿⣿⣿⡿⠀⠀⠀⠀⣿⣿⠀⢠⣿⣿⣿⣿⣿   #
+#                                                             ⣿⣿⣿⣿⣿⣿⣄⠹⣿⡆⠀⣠⡀⠀⠙⠛⠛⠋⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⢀⡈⠛⠛⠛⠋⠀⠀⠀⠀⢸⣿⠏⣠⣿⣿⣿⣿⣿⣿   #
+#    Path:         ./skhd/skhdrc                              ⣿⣿⣿⣿⣿⣿⣿⣦⣽⣿⣦⡿⠿⠀⠀⠀⠀⠀⠀⠀⣠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣾⣿⠄⠀⠀⠀⠀⠀⠀⣰⣿⣧⣼⣿⣿⣿⣿⣿⣿⣿   #
+#                                                             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢷⣄⣀⠀⠀⠀⢀⣠⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⣄⡀⠀⠀⠀⣀⣤⡾⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   #
+#                                                             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣥⣤⠉⠙⠛⠛⠛⢛⣹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣏⡛⠛⠛⠛⠉⠁⣤⣬⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   #
+
+# Commands to open apps
+f1 : open -n -a "iTerm"
+f2 : open -n -a "Google Chrome"
+f3 : open -n -a "ChatGPT"
+f4 : open -n -a "YouTube"
+f5 : open -n -a "Telegram"
+
+# Move window to previous and next space
+shift + alt - p : yabai -m window --space prev
+shift + alt - n : yabai -m window --space next
+
+# Move window to specific space
+shift + alt - 1 : yabai -m window --space 1
+shift + alt - 2 : yabai -m window --space 2
+shift + alt - 3 : yabai -m window --space 3
+shift + alt - 4 : yabai -m window --space 4
+shift + alt - 5 : yabai -m window --space 5
+
+# Loop app
+# - Window Center: Fn + Enter
+# - Window Maximize: Fn + Space
+# - Window move and resize: Fn + arrows
+
+# External Settings
+# - See All Spaces: Ctrl + top arrow
+# - Next Space: Ctrl + right arrow
+# - Previous Space: Ctrl + left arrow
+# - Go to different workspace: Ctrl + 1/2/3/4/5
+# - Raycast: Cmd + Space
+# - Duplicate window: Cmd + N
+# - Close app: Cmd + W (Cmd + Q for Terminal and Telegram)
+# - Settings: Cmd + (,)
