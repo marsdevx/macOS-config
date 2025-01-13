@@ -34,7 +34,7 @@ brew install --cask font-sf-pro
 curl -L https://github.com/kvndrsslr/sketchybar-app-font/releases/download/v2.0.28/sketchybar-app-font.ttf -o $HOME/Library/Fonts/sketchybar-app-font.ttf
 
 # Move config files
-mv ~/Downloads/MacOS-Ricing/sketchybar ~/.config
+mv sketchybar ~/.config
 
 # Start sketchybar
 brew services start sketchybar

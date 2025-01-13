@@ -25,7 +25,7 @@
 brew install koekeishiya/formulae/skhd
 
 # Move config files
-mv ~/Downloads/MacOS-Ricing/skhd ~/.config
+mv skhd ~/.config
 
 # Start skhd
 skhd --start-service
