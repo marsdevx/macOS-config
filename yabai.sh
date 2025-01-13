@@ -17,7 +17,7 @@
 brew install koekeishiya/formulae/yabai
 
 # Move config files
-mv yabai ~/.config
+mv ~/Downloads/macOS-config/yabai ~/.config
 
 # Start yabai
 yabai --start-service
