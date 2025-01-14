@@ -106,3 +106,34 @@ bash ~/Downloads/macOS-config/skhd.sh
 ```bash
 bash ~/Downloads/macOS-config/yabai.sh
 ```
+
+<br>
+
+5. **Iterm**
+
+> Terminal app
+
+- Install Iterm2
+```bash
+brew install --cask iterm2
+```
+
+- Open Iterm app and run Configuration Script
+```bash
+bash ~/Downloads/macOS-config/iterm.sh
+```
+
+- Configure Powerlevel10k
+  - Style: Lean
+  - Character Set: Unicode
+  - Color Scheme: 8 colors
+  - Prompt Separator: No
+  - Layout: Two lines
+  - Connection Status: Disconnected
+  - Prompt Alignment: Left
+  - Accent Color: Blue
+  - Prompt Density: Sparse
+  - Icon Style: Many icons
+  - Prompt Style: Concise
+  - Instant Prompt: Yes
+  - Verbosity: Verbose
