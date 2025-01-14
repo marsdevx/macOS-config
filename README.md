@@ -12,17 +12,24 @@ To install this project, Launch the Terminal app on your system, and run the com
 git clone https://github.com/marsdevx/macOS-config.git ~/Downloads/macOS-config
 ```
 
-2. **Disable Desktop Icons**
+2. **Install Homebrew**
+```bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> ~/.zshrc
+eval "$(/opt/homebrew/bin/brew shellenv)"
+```
+
+3. **Disable Desktop Icons**
 ```bash
 defaults write com.apple.finder CreateDesktop false; killall Finder
 ```
 
-3. **Create Configuration Directory**
+4. **Create Configuration Directory**
 ```bash
 mkdir -p ~/.config
 ```
 
-4. **Update System Settings**
+5. **Update System Settings**
 
   - Accessibility and Control Centre
     - System Settings -> Accessibility -> Display -> Reduce motion -> On  
