@@ -113,12 +113,12 @@ bash ~/Downloads/macOS-config/yabai.sh
 
 > Terminal app
 
-- Install Iterm2
+- Install Oh My Zsh
 ```bash
-brew install --cask iterm2
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
-- Open Iterm app and run Configuration Script
+- Install and setup Iterm2
 ```bash
 bash ~/Downloads/macOS-config/iterm.sh
 ```
