@@ -8,24 +8,24 @@ To install this project, Launch the Terminal app on your system, and run the com
   - If a pop-up appears prompting you to download the Xcode Command Line Tools after the first command, click “Download” and then run the first command again.
 
 1. **Clone repo**
-```bash
+```zsh
 git clone https://github.com/marsdevx/macOS-config.git ~/Downloads/macOS-config
 ```
 
 2. **Install Homebrew**
-```bash
+```zsh
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> ~/.zshrc
 eval "$(/opt/homebrew/bin/brew shellenv)"
 ```
 
 3. **Disable Desktop Icons**
-```bash
+```zsh
 defaults write com.apple.finder CreateDesktop false; killall Finder
 ```
 
 4. **Create Configuration Directory**
-```bash
+```zsh
 mkdir -p ~/.config
 ```
 
@@ -59,8 +59,8 @@ mkdir -p ~/.config
 
 > Window manager
 
-```bash
-bash ~/Downloads/macOS-config/loop.sh
+```zsh
+zsh ~/Downloads/macOS-config/loop.sh
 ```
 
 - After running the script, configure the Loop app with these settings
@@ -90,8 +90,8 @@ bash ~/Downloads/macOS-config/loop.sh
 
 > Customizable top bar
 
-```bash
-bash ~/Downloads/macOS-config/sketchybar.sh
+```zsh
+zsh ~/Downloads/macOS-config/sketchybar.sh
 ```
 
 <br>
@@ -100,8 +100,8 @@ bash ~/Downloads/macOS-config/sketchybar.sh
 
 > Hotkey manager
 
-```bash
-bash ~/Downloads/macOS-config/skhd.sh
+```zsh
+zsh ~/Downloads/macOS-config/skhd.sh
 ```
 
 <br>
@@ -110,8 +110,8 @@ bash ~/Downloads/macOS-config/skhd.sh
 
 > Window manager for multiple workspaces
 
-```bash
-bash ~/Downloads/macOS-config/yabai.sh
+```zsh
+zsh ~/Downloads/macOS-config/yabai.sh
 ```
 
 <br>
@@ -121,13 +121,13 @@ bash ~/Downloads/macOS-config/yabai.sh
 > Terminal app
 
 - Install Oh My Zsh
-```bash
+```zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
 - Install and setup Iterm2
-```bash
-bash ~/Downloads/macOS-config/iterm.sh
+```zsh
+zsh ~/Downloads/macOS-config/iterm.sh
 ```
 
 - Configure Powerlevel10k
