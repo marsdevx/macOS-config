@@ -2,6 +2,14 @@
 
 ---
 
+## 🖼️ Preview
+
+<div align="center">
+  <img src="imgs/preview.png" alt="Preview">
+</div>
+
+---
+
 ## 🛠️ Installation
 
 To install this project, Launch the Terminal app on your system, and run the commands below. <br>
