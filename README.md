@@ -159,3 +159,5 @@ source ~/.zshrc
   - Open iTerm2 and navigate to Settings.
     - Profiles -> Colors -> Color Presets -> Import -> Downloads -> rose-pine.itermcolors
     - Profiles -> Colors -> Color Presets -> rose-pine
+    - Appearance -> Theme: Minimal
+    - Appearance -> Top bar location: Bottom
