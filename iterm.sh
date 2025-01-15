@@ -14,9 +14,6 @@
 # Install Iterm
 brew install --cask iterm2
 
-# Install Power Level 10k
-git clone https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerlevel10k
-
 # Install Zsh Syntax Highlighting Plugin
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
 
@@ -36,3 +33,21 @@ EOF
 
 # Update zshrc
 source ~/.zshrc
+
+# - Configure Powerlevel10k
+#   - Style: Lean
+#   - Character Set: Unicode
+#   - Color Scheme: 8 colors
+#   - Prompt Separator: No
+#   - Layout: Two lines
+#   - Connection Status: Disconnected
+#   - Prompt Alignment: Left
+#   - Accent Color: Blue
+#   - Prompt Density: Sparse
+#   - Icon Style: Many icons
+#   - Prompt Style: Concise
+#   - Instant Prompt: Yes
+#   - Verbosity: Verbose
+
+# - Configure Iterm2
+#   - _________

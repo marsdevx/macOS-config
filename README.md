@@ -125,6 +125,11 @@ zsh ~/Downloads/macOS-config/yabai.sh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
+- Install Theme for Oh My Zsh
+```zsh
+git clone https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerlevel10k
+```
+
 - Install and setup Iterm2
 ```zsh
 zsh ~/Downloads/macOS-config/iterm.sh
