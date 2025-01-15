@@ -20,6 +20,9 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:
 # Install Color Scheme
 curl -o ~/Downloads/rose-pine.itermcolors https://raw.githubusercontent.com/rose-pine/iterm/main/rose-pine.itermcolors
 
+# Install MesloLGS NF font
+curl -L -o ~/Library/Fonts/MesloLGS_NF_Regular.ttf "https://github.com/romkatv/dotfiles-public/raw/master/.local/share/fonts/NerdFonts/MesloLGS%20NF%20Regular.ttf"
+
 # Rewrite zshrc
 cat << EOF > ~/.zshrc
 export ZSH="$HOME/.oh-my-zsh"
