@@ -154,3 +154,8 @@ source ~/.zshrc
   - Prompt Style: Concise
   - Instant Prompt: Yes
   - Verbosity: Verbose
+
+- Configure iTerm2
+  - Open iTerm2 and navigate to Settings.
+    - Profiles -> Colors -> Color Presets -> Import -> Downloads -> rose-pine.itermcolors
+    - Profiles -> Colors -> Color Presets -> rose-pine
