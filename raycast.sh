@@ -26,6 +26,7 @@ brew install --cask raycast
 # Open Raycast 
 open -a Raycast
 
+# Raycast Settings
 # Click Start Setup -> Continue.
 # Set a new hotkey: Record New Hotkey -> Assign Cmd + Space.
 # Click Continue to finalize.
