@@ -173,3 +173,16 @@ source ~/.zshrc
     - Profiles -> Text -> Font -> MesloLGS NF
     - Profiles -> Text -> Font size -> 13
     - Profiles -> Shell Integration -> Show mark indicators -> Off
+
+<br>
+
+6. **Wallpapers**
+
+> My Wallpapers Configuration
+
+- Open System Settings
+  - Wallpaper -> Add Folder or Album -> Chose Folder -> Downloads -> macOS-config -> wallpapers
+  - Click on the wallpapers folder at the bottom of the page
+  - Adjust the settings:
+    - Shuffle: Every Minute
+    - Show on all Spaces: On
