@@ -1,4 +1,27 @@
+<div align="center">
+  <img src="imgs/logo.png" width="320px" alt="macOS Config Logo">
+</div>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/github/last-commit/marsdevx/macOS-config?logo=github&logoColor=f5f5f5&label=Last%20Commit&color=8A2BE2&labelColor=2C2C2C" alt="Last Commit">
+  <img src="https://img.shields.io/badge/Languages-Bash%20%7C%20Lua-B12B2A?logo=coder&logoColor=f5f5f5&labelColor=2C2C2C" alt="Languages">
+  <img src="https://img.shields.io/badge/Platform-MacBook-748ADB?logo=apple&logoColor=f5f5f5&labelColor=2C2C2C" alt="Supported Platforms">
+  <img src="https://img.shields.io/badge/Includes-Wallpapers-orange?logo=paperswithcode&logoColor=f5f5f5&labelColor=2C2C2C" alt="Wallpapers">
+  <img src="https://img.shields.io/badge/Customization-Ricing-15CDD3?logo=figshare&logoColor=f5f5f5&labelColor=2C2C2C" alt="Customization">
+</div>
+
+---
+
 #  macOS Config
+
+**macOS Config** is an **open-source** project designed to streamline the setup of your **MacBook** with **custom** settings, **program installations**, and **wallpapers**. Built using **shell** scripts, this tool **automates** the process of **configuring** your **macOS environment** for **productivity** and **ricing**.
+
+* Specifically designed for **macOS customization** and **ricing**.
+* Includes `.sh` **scripts** to **install** all programs you need for **work**.
+* Applies your custom settings for installed programs **automatically**.
+* Adds your favorite **wallpapers** for a personalized **macOS experience**.
+
+Transform your MacBook into a fully customized workspace with this powerful and efficient tool!
 
 ---
 
