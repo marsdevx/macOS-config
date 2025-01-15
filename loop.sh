@@ -33,11 +33,14 @@
 # Install Loop
 brew install loop
 
+# Open Loop 
+open -a Loop
+
 # Loop Settings
-# Open Loop -> Accent Colour -> Wallpaper -> Gradient -> On
-# Open Loop -> Behaviour -> Launch at login -> On
-# Open Loop -> Behaviour -> Animation speed -> Smooth
-# Open Loop -> Behaviour -> Include padding -> On -> Configure padding -> 7px
-# Open Loop -> Behaviour -> Use screen with cursor -> Off
-# Open Loop -> Keybindings -> Centre -> Remove
-# Open Loop -> Keybindings -> Add -> General -> MacOS Centre -> Fn + Eneter
+# Accent Colour -> Wallpaper -> Gradient -> On
+# Behaviour -> Launch at login -> On
+# Behaviour -> Animation speed -> Smooth
+# Behaviour -> Include padding -> On -> Configure padding -> 7px
+# Behaviour -> Use screen with cursor -> Off
+# Keybindings -> Centre -> Remove
+# Keybindings -> Add -> General -> MacOS Centre -> Fn + Eneter

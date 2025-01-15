@@ -64,13 +64,13 @@ zsh ~/Downloads/macOS-config/loop.sh
 ```
 
 - After running the script, configure the Loop app with these settings
-  - Open Loop app -> Accent Colour -> Wallpaper -> Gradient -> On  
-  - Open Loop app -> Behaviour -> Launch at login -> On  
-  - Open Loop app -> Behaviour -> Animation speed -> Smooth  
-  - Open Loop app -> Behaviour -> Include padding -> On -> Configure padding -> 7px  
-  - Open Loop app -> Behaviour -> Use screen with cursor -> Off  
-  - Open Loop app -> Keybindings -> Centre -> Remove  
-  - Open Loop app -> Keybindings -> Add -> General -> macOS Centre -> Fn + Enter 
+  - Accent Colour -> Wallpaper -> Gradient -> On  
+  - Behaviour -> Launch at login -> On  
+  - Behaviour -> Animation speed -> Smooth  
+  - Behaviour -> Include padding -> On -> Configure padding -> 7px  
+  - Behaviour -> Use screen with cursor -> Off  
+  - Keybindings -> Centre -> Remove  
+  - Keybindings -> Add -> General -> macOS Centre -> Fn + Enter 
 
 <br>
 
@@ -78,8 +78,11 @@ zsh ~/Downloads/macOS-config/loop.sh
 
 > Launching applications
 
-- Visit [Raycast](https://www.raycast.com/) and download the app.
-- Open Raycast app and complete the initial setup:
+```zsh
+zsh ~/Downloads/macOS-config/raycast.sh
+```
+
+- After running the script, configure the Raycast app with these settings
   - Click Start Setup -> Continue.
   - Set a new hotkey: Record New Hotkey -> Assign Cmd + Space.
   - Click Continue to finalize.
