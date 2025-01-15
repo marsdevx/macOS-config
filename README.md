@@ -157,7 +157,14 @@ source ~/.zshrc
 
 - Configure iTerm2
   - Open iTerm2 and navigate to Settings.
+    - General -> Closing -> Confirm "Quit iTerm2 (CmdQ)" -> Off
+    - Appearance -> General -> Theme: Minimal
+    - Appearance -> General -> Top bar location: Bottom
+    - Appearance -> Windows -> Hide scrollbars -> On
+    - Appearance -> Windows -> Show line under title bar ... -> Off
+    - Appearance -> Panes -> Side margins: 8
+    - Appearance -> Panes -> Top & bottom margins: 12
     - Profiles -> Colors -> Color Presets -> Import -> Downloads -> rose-pine.itermcolors
     - Profiles -> Colors -> Color Presets -> rose-pine
-    - Appearance -> Theme: Minimal
-    - Appearance -> Top bar location: Bottom
+    - Profiles -> Window -> Transparency: 7
+    - Profiles -> Text -> Font -> MesloLGS NF
