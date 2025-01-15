@@ -38,7 +38,7 @@ mkdir -p ~/.config
   - Desktop & Dock
     - System Settings -> Desktop & Dock -> Automatically hide and show the Dock -> On  
     - System Settings -> Desktop & Dock -> Automatically rearrange Spaces based on most recent use -> Off  
-    - System Settings -> Desktop & Dock -> When switching to an application, switch to a Space with open windows for the application -> Off  
+    - System Settings -> Desktop & Dock -> When switching to an application, switch to a Space ... -> Off  
     - System Settings -> Desktop & Dock -> Group windows by application -> Off  
     - System Settings -> Desktop & Dock -> Displays have separate Spaces -> On  
 
