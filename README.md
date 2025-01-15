@@ -168,3 +168,5 @@ source ~/.zshrc
     - Profiles -> Colors -> Color Presets -> rose-pine
     - Profiles -> Window -> Transparency: 7
     - Profiles -> Text -> Font -> MesloLGS NF
+    - Profiles -> Text -> Font size -> 13
+    - Profiles -> Shell Integration -> Show mark indicators -> Off
