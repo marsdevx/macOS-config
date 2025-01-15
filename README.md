@@ -135,6 +135,11 @@ git clone https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerl
 zsh ~/Downloads/macOS-config/iterm.sh
 ```
 
+- Update zshrc
+```zsh
+source ~/.zshrc
+```
+
 - Configure Powerlevel10k
   - Style: Lean
   - Character Set: Unicode

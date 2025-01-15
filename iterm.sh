@@ -31,9 +31,6 @@ plugins=(git zsh-syntax-highlighting)
 source $ZSH/oh-my-zsh.sh
 EOF
 
-# Update zshrc
-source ~/.zshrc
-
 # - Configure Powerlevel10k
 #   - Style: Lean
 #   - Character Set: Unicode
