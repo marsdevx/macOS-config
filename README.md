@@ -1,13 +1,15 @@
 <div align="center">
   <img src="imgs/logo.png" width="320px" alt="macOS Config Logo">
 </div>
+
 <br>
+
 <div align="center">
-  <img src="https://img.shields.io/github/last-commit/marsdevx/macOS-config?logo=github&logoColor=f5f5f5&label=Last%20Commit&color=8A2BE2&labelColor=2C2C2C" alt="Last Commit">
-  <img src="https://img.shields.io/badge/Languages-Bash%20%7C%20Lua-B12B2A?logo=coder&logoColor=f5f5f5&labelColor=2C2C2C" alt="Languages">
-  <img src="https://img.shields.io/badge/Platform-MacBook-748ADB?logo=apple&logoColor=f5f5f5&labelColor=2C2C2C" alt="Supported Platforms">
-  <img src="https://img.shields.io/badge/Includes-Wallpapers-orange?logo=paperswithcode&logoColor=f5f5f5&labelColor=2C2C2C" alt="Wallpapers">
-  <img src="https://img.shields.io/badge/Customization-Ricing-15CDD3?logo=figshare&logoColor=f5f5f5&labelColor=2C2C2C" alt="Customization">
+  <img src="https://custom-icon-badges.demolab.com/github/last-commit/marsdevx/macOS-config?logoColor=white&labelColor=2C2C2C&label=Last%20Commit&color=8A2BE2&logo=mark-github" alt="Last Commit">
+  <img src="https://custom-icon-badges.demolab.com/static/v1?logoColor=white&labelColor=2C2C2C&label=Languages&message=Bash%20%7C%20Lua&color=D32F2F&logo=file-code" alt="Languages">
+  <img src="https://custom-icon-badges.demolab.com/static/v1?logoColor=white&labelColor=2C2C2C&label=Platform&message=MacBook&color=748ADB&logo=apple" alt="Supported Platforms">
+  <img src="https://custom-icon-badges.demolab.com/static/v1?logoColor=white&labelColor=2C2C2C&label=Includes&message=Wallpapers&color=F47F42&logo=file-media" alt="Wallpapers">
+  <img src="https://custom-icon-badges.demolab.com/static/v1?logoColor=white&labelColor=2C2C2C&label=Customization&message=Ricing&color=009688&logo=sparkles-fill" alt="Customization">
 </div>
 
 ---
