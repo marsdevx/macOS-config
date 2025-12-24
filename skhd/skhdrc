@@ -43,3 +43,7 @@ shift + alt - 5 : yabai -m window --space 5
 # - Duplicate window: Cmd + N
 # - Close app: Cmd + W (Cmd + Q for Terminal and Telegram)
 # - Settings: Cmd + (,)
+# - Enter/Exit Video full screen mode: F
+# - Change Birghtness: F1/F2
+# - Change Volume: F10/F11/F12
+# - Focus on search bar: (/)
