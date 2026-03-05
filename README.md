@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=marsdevx&project=macOS-config&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=marsdevx&project=macOS-config&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=marsdevx&project=macOS-config&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=marsdevx&project=macOS-config&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=marsdevx&project=macOS-config&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=marsdevx&project=macOS-config&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=marsdevx&project=macOS-config&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=marsdevx&project=macOS-config&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=marsdevx&project=macOS-config&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=marsdevx&project=macOS-config&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=marsdevx&project=macOS-config&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=marsdevx&project=macOS-config&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=marsdevx&project=macOS-config&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=marsdevx&project=macOS-config&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=marsdevx&project=macOS-config&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=marsdevx&project=macOS-config&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=marsdevx&project=macOS-config&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=marsdevx&project=macOS-config&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=marsdevx&project=macOS-config&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=marsdevx&project=macOS-config&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=marsdevx&project=macOS-config&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 <div align="center">
   <img src="imgs/logo.png" width="320px" alt="macOS Config Logo">
 </div>
