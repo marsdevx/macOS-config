@@ -23,5 +23,32 @@
 
 #!/usr/bin/env lua
 
+local home = os.getenv("HOME")
+local config_dir = home .. "/.config/sketchybar"
+local lua_bin_dir = home .. "/.local/share/sketchybar_lua"
+
+local function remove_relative_entries(path)
+  local result = {}
+  for entry in string.gmatch(path or "", "[^;]+") do
+    if entry ~= "./?.lua" and entry ~= "./?/init.lua" then
+      table.insert(result, entry)
+    end
+  end
+  return table.concat(result, ";")
+end
+
+package.path = remove_relative_entries(package.path)
+  .. ";" .. config_dir .. "/?.lua"
+  .. ";" .. config_dir .. "/?/init.lua"
+
+package.cpath = remove_relative_entries(package.cpath)
+  .. ";" .. lua_bin_dir .. "/?.so"
+
+local so = io.open(lua_bin_dir .. "/sketchybar.so", "r")
+if not so then
+  error("Missing SbarLua module: " .. lua_bin_dir .. "/sketchybar.so")
+end
+so:close()
+
 require("helpers")
 require("init")

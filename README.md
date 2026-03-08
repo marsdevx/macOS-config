@@ -126,12 +126,25 @@ zsh ~/Downloads/macOS-config/raycast.sh
 
 <br>
 
-3. **Sketchybar**
+3. **SketchyBar**
 
 > Customizable top bar
 
 ```zsh
 zsh ~/Downloads/macOS-config/sketchybar.sh
+```
+
+`Reinstall SbarLua (only if SketchyBar is broken)`
+<br>
+`[WARNING] Use this if SketchyBar starts but shows only a gray line, no items appear, or config stops working after a reboot or update.`
+
+```zsh
+rm -f ~/.local/share/sketchybar_lua/sketchybar.so
+rm -rf /tmp/SbarLua
+git clone https://github.com/FelixKratz/SbarLua.git /tmp/SbarLua
+cd /tmp/SbarLua
+make install
+brew services restart sketchybar
 ```
 
 <br>
